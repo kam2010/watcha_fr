@@ -1,0 +1,11 @@
+{
+  "latest_version_code": 2,
+  "latest_version_name": "1.1",
+  "update_message": "Une nouvelle version (1.2.0) est disponible .",
+  "release_notes": [
+    "- Amélioration de la vitesse de chargement des images.",
+    "- Ajout d'une nouvelle section de favoris.",
+    "- Correction de bugs mineurs."
+  ],
+  "download_url": "URL_VERS_VOTRE_FICHIER_APK_SUR_GITHUB_VERSION_1_2_0.apk"
+}
